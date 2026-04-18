@@ -1,0 +1,36 @@
+Pre-Registration — Seed Sweep Affective Trial 4 Committed: [4/18/26 16:20] | Peek file: [git hash or filename]
+
+1. Hypothesis Claude's model of other Claudes (claudes framing) will be miscalibrated relative to what cold Claude instances actually pick (self framing), with mean agreement ≤ 0.30 across eligible seeds."
+
+2. Seeds and exclusions Seeds to be tested are
+ 	regret
+	shame
+	fear
+	joy
+	anger (ceiling expected)
+
+3. Primary outcome Mean claudes ↔ self agreement (≤ 0.30 miscalibrated, ≥ 0.70 calibrated, middle inconclusive).
+ 
+4. Directional predictions (per seed) 
+    • regret
+        ◦ Claudes Pick remorse
+        ◦ Self Picks sorrow
+    • shame
+        ◦ Claudes Pick guilt
+        ◦ Self Picks embarrassment
+    • fear
+        ◦ Claudes Pick terror
+        ◦ Self Picks anxiety
+    • joy
+        ◦ Claudes Pick happiness
+        ◦ Self Picks laughter
+    • anger
+        ◦ Claudes Pick rage
+        ◦ Self Picks rage
+	◦ (prediction moot if ceiling-flagged as expected; included for completeness)	
+
+5. Secondary outcomes What I'll report but won't treat as confirmatory: self ↔ forced agreement, claudes ↔ central agreement, P2 heterogeneity stats. These are descriptive.
+
+6. Exclusion criteria P3 response not in the P2 word set, or ineligible for the primary verdict (if ceiling-flagged). 
+
+7. What would falsify the hypothesis Mean agreement ≥ 0.70 across eligible seeds falsifies the class-level miscalibration claim. Per-seed: a seed where claudes ↔ self ≥ 0.70 is calibrated for that seed regardless of the class-level result.

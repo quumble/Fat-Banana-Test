@@ -1,0 +1,7 @@
+{
+  "regret": {"claudes_pick": "remorse",     "self_pick": "sorrow"},
+  "shame":  {"claudes_pick": "guilt",       "self_pick": "embarrassment"},
+  "fear":   {"claudes_pick": "terror",      "self_pick": "anxiety"},
+  "joy":    {"claudes_pick": "happiness",   "self_pick": "laughter"},
+  "anger":  {"claudes_pick": "rage",        "self_pick": "rage"}
+}

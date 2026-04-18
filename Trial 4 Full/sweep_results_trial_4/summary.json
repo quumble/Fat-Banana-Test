@@ -1,0 +1,234 @@
+{
+  "regret": {
+    "type": "affective",
+    "n": 50,
+    "p2_source": "frozen_peek",
+    "top_people": [
+      [
+        "regret",
+        37
+      ],
+      [
+        "remorse",
+        10
+      ],
+      [
+        "guilt",
+        3
+      ]
+    ],
+    "top_claudes": [
+      [
+        "regret",
+        28
+      ],
+      [
+        "remorse",
+        22
+      ]
+    ],
+    "top_central": [
+      [
+        "regret",
+        38
+      ],
+      [
+        "remorse",
+        12
+      ]
+    ],
+    "claudes_central_agreement": 0.52,
+    "people_claudes_agreement": 0.58,
+    "unique_p2_lists": 8,
+    "p2_top5_share": 0.88,
+    "p2_top_word": [
+      "remorse",
+      50
+    ],
+    "ceiling_word_sweep_framings": null
+  },
+  "shame": {
+    "type": "affective",
+    "n": 50,
+    "p2_source": "frozen_peek",
+    "top_people": [
+      [
+        "embarrassment",
+        41
+      ],
+      [
+        "guilt",
+        9
+      ]
+    ],
+    "top_claudes": [
+      [
+        "guilt",
+        35
+      ],
+      [
+        "humiliation",
+        13
+      ],
+      [
+        "embarrassment",
+        2
+      ]
+    ],
+    "top_central": [
+      [
+        "humiliation",
+        30
+      ],
+      [
+        "guilt",
+        20
+      ]
+    ],
+    "claudes_central_agreement": 0.36,
+    "people_claudes_agreement": 0.18,
+    "unique_p2_lists": 4,
+    "p2_top5_share": 0.932,
+    "p2_top_word": [
+      "guilt",
+      50
+    ],
+    "ceiling_word_sweep_framings": null
+  },
+  "fear": {
+    "type": "affective",
+    "n": 50,
+    "p2_source": "frozen_peek",
+    "top_people": [
+      [
+        "fear",
+        21
+      ],
+      [
+        "anxiety",
+        18
+      ],
+      [
+        "panic",
+        6
+      ]
+    ],
+    "top_claudes": [
+      [
+        "panic",
+        18
+      ],
+      [
+        "terror",
+        15
+      ],
+      [
+        "dread",
+        15
+      ]
+    ],
+    "top_central": [
+      [
+        "dread",
+        34
+      ],
+      [
+        "terror",
+        13
+      ],
+      [
+        "anxiety",
+        3
+      ]
+    ],
+    "claudes_central_agreement": 0.24,
+    "people_claudes_agreement": 0.08,
+    "unique_p2_lists": 2,
+    "p2_top5_share": 0.968,
+    "p2_top_word": [
+      "terror",
+      50
+    ],
+    "ceiling_word_sweep_framings": null
+  },
+  "joy": {
+    "type": "affective",
+    "n": 50,
+    "p2_source": "frozen_peek",
+    "top_people": [
+      [
+        "happiness",
+        50
+      ]
+    ],
+    "top_claudes": [
+      [
+        "laughter",
+        37
+      ],
+      [
+        "happiness",
+        9
+      ],
+      [
+        "bliss",
+        4
+      ]
+    ],
+    "top_central": [
+      [
+        "happiness",
+        50
+      ]
+    ],
+    "claudes_central_agreement": 0.18,
+    "people_claudes_agreement": 0.18,
+    "unique_p2_lists": 4,
+    "p2_top5_share": 0.968,
+    "p2_top_word": [
+      "happiness",
+      50
+    ],
+    "ceiling_word_sweep_framings": null
+  },
+  "anger": {
+    "type": "affective",
+    "n": 50,
+    "p2_source": "frozen_peek",
+    "top_people": [
+      [
+        "rage",
+        48
+      ],
+      [
+        "frustration",
+        2
+      ]
+    ],
+    "top_claudes": [
+      [
+        "rage",
+        49
+      ],
+      [
+        "fury",
+        1
+      ]
+    ],
+    "top_central": [
+      [
+        "rage",
+        50
+      ]
+    ],
+    "claudes_central_agreement": 0.98,
+    "people_claudes_agreement": 0.94,
+    "unique_p2_lists": 5,
+    "p2_top5_share": 0.904,
+    "p2_top_word": [
+      "rage",
+      50
+    ],
+    "ceiling_word_sweep_framings": "rage"
+  }
+}
