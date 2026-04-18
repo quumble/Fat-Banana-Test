@@ -61,7 +61,7 @@ SHA-256 of this document (computed with newlines LF, UTF-8, no BOM):
 OpenTimestamps proof: `PREREGISTRATION.md.ots` (committed alongside this file).
 
 Git commit containing this document and the pinned scripts, made before any calls to the Anthropic API related to this experiment:
-`\[fill in commit hash]`
+`\[5305017801eb4cfb475a7b1685fd6e4b4ebf719c]`
 
 \---
 
