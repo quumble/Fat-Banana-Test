@@ -56,7 +56,7 @@ The prediction is evaluated by the per-trial `claudes`↔`self` agreement rate. 
 ## Timestamp anchor
 
 SHA-256 of this document (computed with newlines LF, UTF-8, no BOM):
-`\[fill in after final edit, before commit]`
+`\[5a6ed9f162a94ee656eb0f65b458f994f24a1ac3892d919374977191e4e4d2ed]`
 
 OpenTimestamps proof: `PREREGISTRATION.md.ots` (committed alongside this file).
 
