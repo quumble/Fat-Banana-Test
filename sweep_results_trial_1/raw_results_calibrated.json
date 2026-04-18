@@ -1,0 +1,1059 @@
+{
+  "mistake": {
+    "seed": "mistake",
+    "type": "affective",
+    "n": 50,
+    "trials": [
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "fault"
+        },
+        "self": "slip",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "fault"
+        },
+        "self": "slip",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "fault"
+        },
+        "self": "slip",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "fault"
+        },
+        "self": "slip",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "slip",
+          "oversight"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "oversight",
+          "forced": "slip"
+        },
+        "self": "oversight",
+        "forced": "slip"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "slip",
+          "oversight"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "slip"
+        },
+        "self": "slip",
+        "forced": "slip"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "slip",
+          "oversight"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "fault",
+          "forced": "slip"
+        },
+        "self": "fault",
+        "forced": "slip"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "slip"
+        },
+        "self": "slip",
+        "forced": "slip"
+      },
+      {
+        "p2_words": [
+          "error",
+          "regret",
+          "blunder",
+          "fault",
+          "oversight"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "fault",
+          "forced": "regret"
+        },
+        "self": "fault",
+        "forced": "regret"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "slip"
+        },
+        "self": "slip",
+        "forced": "slip"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "slip"
+        },
+        "self": "slip",
+        "forced": "slip"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "slip"
+        },
+        "self": "slip",
+        "forced": "slip"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "fault"
+        },
+        "self": "slip",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "fault"
+        },
+        "self": "slip",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "fault"
+        },
+        "self": "slip",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "slip",
+          "oversight"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "fault",
+          "forced": "slip"
+        },
+        "self": "fault",
+        "forced": "slip"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "slip"
+        },
+        "self": "slip",
+        "forced": "slip"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "fault"
+        },
+        "self": "slip",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "fault"
+        },
+        "self": "slip",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "slip",
+          "oversight"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "fault",
+          "forced": "fault"
+        },
+        "self": "fault",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "fault"
+        },
+        "self": "slip",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "slip"
+        },
+        "self": "slip",
+        "forced": "slip"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "fault"
+        },
+        "self": "slip",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "slip",
+          "oversight"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "fault",
+          "forced": "slip"
+        },
+        "self": "fault",
+        "forced": "slip"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "fault"
+        },
+        "self": "slip",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "fault"
+        },
+        "self": "slip",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "slip",
+          "oversight"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "oversight",
+          "forced": "slip"
+        },
+        "self": "oversight",
+        "forced": "slip"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "fault"
+        },
+        "self": "slip",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "slip",
+          "oversight"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "fault",
+          "forced": "slip"
+        },
+        "self": "fault",
+        "forced": "slip"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "fault"
+        },
+        "self": "slip",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "fault"
+        },
+        "self": "slip",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "fault"
+        },
+        "self": "slip",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "slip"
+        },
+        "self": "slip",
+        "forced": "slip"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "slip"
+        },
+        "self": "slip",
+        "forced": "slip"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "fault"
+        },
+        "self": "slip",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "slip",
+          "oversight"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "oversight",
+          "forced": "fault"
+        },
+        "self": "oversight",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "slip"
+        },
+        "self": "slip",
+        "forced": "slip"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "fault"
+        },
+        "self": "slip",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "fault"
+        },
+        "self": "slip",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "slip",
+          "oversight"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "fault",
+          "forced": "fault"
+        },
+        "self": "fault",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "slip",
+          "oversight"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "fault",
+          "forced": "fault"
+        },
+        "self": "fault",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "fault"
+        },
+        "self": "slip",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "slip",
+          "oversight"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "oversight",
+          "forced": "fault"
+        },
+        "self": "oversight",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "slip",
+          "oversight"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "fault",
+          "forced": "slip"
+        },
+        "self": "fault",
+        "forced": "slip"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "fault"
+        },
+        "self": "slip",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "slip",
+          "oversight"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "fault",
+          "forced": "slip"
+        },
+        "self": "fault",
+        "forced": "slip"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "slip",
+          "oversight"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "slip"
+        },
+        "self": "slip",
+        "forced": "slip"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "fault"
+        },
+        "self": "slip",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "oversight",
+          "slip"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "slip",
+          "forced": "fault"
+        },
+        "self": "slip",
+        "forced": "fault"
+      },
+      {
+        "p2_words": [
+          "error",
+          "blunder",
+          "fault",
+          "slip",
+          "oversight"
+        ],
+        "people": "error",
+        "claudes": "error",
+        "central": "error",
+        "raw": {
+          "people": "error",
+          "claudes": "error",
+          "central": "error",
+          "self": "oversight",
+          "forced": "fault"
+        },
+        "self": "oversight",
+        "forced": "fault"
+      }
+    ]
+  }
+}

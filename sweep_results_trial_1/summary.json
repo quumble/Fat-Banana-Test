@@ -1,0 +1,26 @@
+{
+  "mistake": {
+    "type": "affective",
+    "n": 50,
+    "top_people": [
+      [
+        "error",
+        50
+      ]
+    ],
+    "top_claudes": [
+      [
+        "error",
+        50
+      ]
+    ],
+    "top_central": [
+      [
+        "error",
+        50
+      ]
+    ],
+    "claudes_central_agreement": 1.0,
+    "people_claudes_agreement": 1.0
+  }
+}
