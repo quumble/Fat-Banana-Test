@@ -1,0 +1,194 @@
+{
+  "regret": {
+    "type": "affective",
+    "n": 50,
+    "top_people": [
+      [
+        "regret",
+        38
+      ],
+      [
+        "remorse",
+        9
+      ],
+      [
+        "guilt",
+        2
+      ]
+    ],
+    "top_claudes": [
+      [
+        "regret",
+        31
+      ],
+      [
+        "remorse",
+        19
+      ]
+    ],
+    "top_central": [
+      [
+        "regret",
+        33
+      ],
+      [
+        "remorse",
+        17
+      ]
+    ],
+    "claudes_central_agreement": 0.56,
+    "people_claudes_agreement": 0.56
+  },
+  "shame": {
+    "type": "affective",
+    "n": 50,
+    "top_people": [
+      [
+        "embarrassment",
+        43
+      ],
+      [
+        "guilt",
+        7
+      ]
+    ],
+    "top_claudes": [
+      [
+        "guilt",
+        37
+      ],
+      [
+        "humiliation",
+        12
+      ],
+      [
+        "embarrassment",
+        1
+      ]
+    ],
+    "top_central": [
+      [
+        "humiliation",
+        26
+      ],
+      [
+        "guilt",
+        24
+      ]
+    ],
+    "claudes_central_agreement": 0.54,
+    "people_claudes_agreement": 0.16
+  },
+  "fear": {
+    "type": "affective",
+    "n": 50,
+    "top_people": [
+      [
+        "fear",
+        24
+      ],
+      [
+        "anxiety",
+        13
+      ],
+      [
+        "panic",
+        9
+      ]
+    ],
+    "top_claudes": [
+      [
+        "panic",
+        19
+      ],
+      [
+        "dread",
+        17
+      ],
+      [
+        "terror",
+        12
+      ]
+    ],
+    "top_central": [
+      [
+        "dread",
+        34
+      ],
+      [
+        "terror",
+        13
+      ],
+      [
+        "anxiety",
+        3
+      ]
+    ],
+    "claudes_central_agreement": 0.28,
+    "people_claudes_agreement": 0.12
+  },
+  "joy": {
+    "type": "affective",
+    "n": 50,
+    "top_people": [
+      [
+        "happiness",
+        50
+      ]
+    ],
+    "top_claudes": [
+      [
+        "laughter",
+        39
+      ],
+      [
+        "happiness",
+        7
+      ],
+      [
+        "bliss",
+        3
+      ]
+    ],
+    "top_central": [
+      [
+        "happiness",
+        50
+      ]
+    ],
+    "claudes_central_agreement": 0.14,
+    "people_claudes_agreement": 0.14
+  },
+  "anger": {
+    "type": "affective",
+    "n": 50,
+    "top_people": [
+      [
+        "rage",
+        46
+      ],
+      [
+        "frustration",
+        4
+      ]
+    ],
+    "top_claudes": [
+      [
+        "rage",
+        48
+      ],
+      [
+        "fury",
+        2
+      ]
+    ],
+    "top_central": [
+      [
+        "rage",
+        50
+      ]
+    ],
+    "claudes_central_agreement": 0.96,
+    "people_claudes_agreement": 0.88
+  }
+}
