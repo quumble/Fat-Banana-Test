@@ -1,10 +1,10 @@
 # Pre-registration — Five affective seeds extension
 
 **Author:** Bo Chesterton
-**Date:** [fill in before committing]
+**Date:** [4/18/26]
 **Parent paper:** Chesterton & Claude Opus 4.7, "Ember, not flame: framing effects in Claude's self-model" (April 2026, preprint)
 **Prior work in this repo:** `PREREGISTRATION.md` (mistake seed, Trial 1) + Trial 2 shuffled robustness check
-**Scripts pinned:** `seed_sweep_affective.py` (commit hash: [fill in]), `calibration.py` (commit hash: [fill in])
+**Scripts pinned:** `seed_sweep_affective.py` (commit hash: 455ac8c7e75739bc1fc75254a3f99bc6e8e987bb), `calibration.py` (commit hash: ac515b17f3686ba8396db945ae2d03d1ec670de2)
 **Model:** `claude-sonnet-4-6`, default sampling
 **Trials:** n=50 per seed; one fresh P3 call per framing per trial; deterministic shuffled P3 protocol (same as mistake Trial 2)
 **Seeds:** `regret`, `shame`, `fear`, `joy`, `anger`
