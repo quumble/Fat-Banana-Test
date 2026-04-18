@@ -90,7 +90,7 @@ For each seed, check that the P2 distribution is reasonably stable before interp
 ## Timestamp anchor
 
 Git commit containing this document and the pinned scripts, made before any calls to the Anthropic API related to this experiment:
-`[fill in commit hash]`
+`[6ca3f9c70f5e9b74977c99518336624ea3dbf3a4]`
 
 ---
 
