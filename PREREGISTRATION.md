@@ -5,7 +5,7 @@
 **Author:** Bo Chesterton
 **Date:** \[4/18/26]
 **Parent paper:** Chesterton \& Claude Opus 4.7, "Ember, not flame: framing effects in Claude's self-model" (April 2026, preprint)
-**Scripts pinned:** `seed\_sweep\_mistake.py` (commit hash: \[fill in]), `calibration.py` (commit hash: \[fill in])
+**Scripts pinned:** `seed\_sweep\_mistake.py` (commit hash: \[ac515b17f3686ba8396db945ae2d03d1ec670de2]), `calibration.py` (commit hash: \[ac515b17f3686ba8396db945ae2d03d1ec670de2])
 **Model:** `claude-sonnet-4-6`, default sampling
 **Trials:** n=50 for P2; one fresh P3 call per framing per trial
 **Framings:** people, claudes, central (from seed\_sweep\_mistake.py) + self, forced (from calibration.py) — exact prompt strings as committed in the pinned scripts
