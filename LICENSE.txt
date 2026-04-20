@@ -1,6 +1,7 @@
 Attribution-NonCommercial-ShareAlike 4.0 International
 
 =======================================================================
+Copyright (c) 2026 Bo Chesterton
 This work is licensed under CC BY-NC-SA 4.0. For commercial use, contact quumble@gmail.com
 =======================================================================
 
